@@ -1,18 +1,24 @@
 '''
-1.0 Jedi Training (17pts)  Name:________________
+1.0 Jedi Training (17pts)  Name: Jake Staton
 
 
-1. Define Forking (1pt): 
+1. Define Forking (1pt): Creating a copy of a shared read-only repository.
 
-2. Define Cloning (1pt): 
+2. Define Cloning (1pt): After forking, the repository is then cloned in order
+to make changes. This becomes known as a local repository.
 
-3. Define Branching (1pt):
+3. Define Branching (1pt): A repository with multiple strands of development
+occurring simultaneously.
 
-4. Define Committing (1pt): 
+4. Define Committing (1pt): A 'commit' is a checkpoint in the development
+process.
 
-5. Define Merging (1pt): 
+5. Define Merging (1pt): After a repository is cloned and changes have been made,
+The editor can make a 'pull request', if accepted, the cloned repository will
+combine with merge or combine with the original code.
 
-6. Define Pushing (1pt):
+6. Define Pushing (1pt): Pushing is essentially 'moving' all of our commits
+and changes to our remote repository.
 
 7. Define Pull Request (1pt):
 
